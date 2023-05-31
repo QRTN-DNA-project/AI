@@ -1,1 +1,11 @@
-"# AI - ipynbÆÄÀÏ°ú pyÆÄÀÏ ¸ğµÎ ¿Ã·ÁÁÖ¼¼¿ä!" 
+# ipynbíŒŒì¼ê³¼ pyíŒŒì¼ ëª¨ë‘ ì˜¬ë ¤ì£¼ì„¸ìš”!
+
+# ëª…ë ¹ì–´ ì‚¬ìš© ìˆœì„œ
+* git init
+* git remote origin 
+* git add .
+* git commit -m "ìˆ˜ì •ì‚¬í•­"
+* git remote add origin https://github.com/QRTN-DNA-project/AI.git
+* git branch -M main
+* git pull origin main
+* git push origin main
